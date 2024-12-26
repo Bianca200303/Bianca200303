@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bianca Fiorella Seminario</h1>
-<h3 align="center">Soy una estudiante por la tecnología, la innovación y el análisis de datos</h3>
+<h3 align="center">Soy una estudiante apasionada por la tecnología, la innovación y el análisis de datos</h3>
 
 - 🔭 I’m currently working on **University of Piura**
 
