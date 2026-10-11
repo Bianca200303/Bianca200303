@@ -4,10 +4,12 @@ I build technology for people it usually leaves behind: small shop owners, rural
 Now I'm learning to make it smarter with data and AI.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bianca-fiorella-seminario-solano-data/">LinkedIn</a> ·
-  <a href="mailto:biancafseminario@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/bianca-fiorella-seminario-solano-data/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/></a>
+  &nbsp;
+  <a href="mailto:biancafseminario@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="32" height="32"/></a>
+  &nbsp;
+  <a href="https://wa.me/51964865396" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="32" height="32"/></a>
 </p>
-
 ### What I'm doing now
 - Building technology for the communities that are most often left behind.
 - Working at **NTT DATA**, creating AI assistants that help bank customers and employees.
