@@ -1,19 +1,52 @@
-<h1 align="center">Hi 👋, I'm Bianca Fiorella Seminario</h1>
-<h3 align="center">Soy una estudiante apasionada por la tecnología, la innovación y el análisis de datos</h3>
+Tu presentación actual de GitHub está desactualizada: dice que trabajas en la UDEP y que estás aprendiendo JavaScript, y enlaza tu LinkedIn anterior. Te propongo esta versión, alineada con tu portafolio, en inglés (que es lo esperable en GitHub y para Helsinki) y sin emojis. Revisé que todos los íconos carguen.
 
-- 🔭 I’m currently working on **University of Piura**
+<h1 align="center">Bianca Seminario</h1>
+<p align="center"><b>Industrial & Systems Engineer · Piura, Peru</b><br>
+I build technology for the communities it usually leaves behind, and I'm moving deeper into data and AI.</p>
 
-- 🌱 I’m currently learning **Java script**
-
-- 👯 I’m looking to collaborate on **projects about Machine Learning and AI**
-
-- 📫 How to reach me **biancafseminario@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bianca-fiorella-seminario-solano-b0b013206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bianca-fiorella-seminario-solano-b0b013206/" height="30" width="40" /></a>
-<a href="https://instagram.com/fiorella__seminario__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fiorella__seminario__" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://biancawebsite.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/bianca-fiorella-seminario-solano-data/">LinkedIn</a> ·
+  <a href="mailto:biancafseminario@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### About me
+- Junior Engineer at **NTT DATA**, building AI agents with Salesforce Agentforce for the banking sector.
+- Selected for **GCI World**, the data science program by the University of Tokyo's Matsuo-Iwasawa Lab, supported by JICA (in progress).
+- Built a mobile management app used by **~300 small stores** in northern Peru.
+- Applied **machine learning** to environmental data for OEFA, Peru's environmental oversight agency.
+
+### Featured work
+- **BIT24 mobile app:** sales, inventory and analytics for small store owners, built with Flutter and PostgreSQL. [Google Play](https://play.google.com/store/apps/details?id=pe.bit24.app)
+- **Panela digital transformation:** technology lead in a project digitalizing rural panela producers, backed by Swiss cooperation.
+- **Environmental ML (OEFA):** geospatial ETL pipelines and clustering to detect critical waste accumulation zones.
+- **Student support hours system (UDEP):** process automation with Power Platform. [Publication](https://pirhua.udep.edu.pe/item/dfa853fd-4ddd-44de-8be8-ecd401898874)
+
+### Tech I use
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="36" height="36"/>
+  <img src="https://raw.githubusercontentalt="scikit-learn" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
+- La primera línea es la misma idea de tu portafolio: construyes tecnología para quienes quedan fuera y vas hacia los datos y la IA. Así todos tus perfiles cuentan la misma historia.
+- Actualicé tu situación: NTT DATA, GCI World y los logros con cifras (~300 bodegas). Ya no dice que trabajas en la UDEP ni que estás aprendiendo JavaScript.
+- Agregué una sección de proyectos destacados con enlaces verificables: Google Play y la publicación de la UDEP. Es lo primero que mira alguien técnico.
+- Herramientas: quité las que ya no reflejan tu perfil (CSS, HTML, MySQL, MSSQL, Oracle, OpenCV, Seaborn) y agregué tu stack actual (Flutter, PostgreSQL, FastAPI, AWS, Salesforce, Next.js). Power BI y Tableau no tienen un ícono confiable, así que van como texto al final.
+- Enlace de LinkedIn: cambié el viejo por el de -data.
+- Instagram: lo quité. Para un perfil profesional que van a ver comités de beca o reclutadores, conviene que sea solo profesional. height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
+</p>
+
+<sub>Also: SQL, Power BI, Tableau, Power Automate, Salesforce Flow & Apex.</sub>
