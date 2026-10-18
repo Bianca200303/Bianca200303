@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Bianca Seminario</h1>
 <p align="center"><b>Industrial & Systems Engineer from Piura, Peru</b><br>
-I build technology for people it usually leaves behind: small shop owners, rural producers and schools.<br>
-Now I'm learning to make it smarter with data and AI.</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bianca-fiorella-seminario-solano-data/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/></a>
